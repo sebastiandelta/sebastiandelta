@@ -7,6 +7,7 @@
 - Actualmente estoy aprendiendo **Testing, API rest**
 
 - 📫 Como Buscarme **juan.cancelada@uniminuto.edu.co**
+- 📫 GitHub personal: **https://github.com/Juanscancelada**
 
 <h3 align="left">Contactame aqui:</h3>
 https://www.linkedin.com/in/juan-sebasti%C3%A1n-cancelada-bustos-9b3278174/
